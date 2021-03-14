@@ -11,5 +11,5 @@ The dataset used is available here : https://www.kaggle.com/c/house-prices-advan
 If Github won't load Jupyter notebooks copy the github link to https://nbviewer.jupyter.org on your browser to view my notebooks.
 ## Acknowledgments
 The code is based on some prior work including :
-https://www.kaggle.com/dejavu23/house-prices-eda-to-ml-beginner
-https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+* https://www.kaggle.com/dejavu23/house-prices-eda-to-ml-beginner
+* https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
